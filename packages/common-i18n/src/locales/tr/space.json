@@ -1,0 +1,58 @@
+{
+  "initialSpaceName": "{{name}}'in alanı",
+  "action": {
+    "createBase": "Veritabanı oluştur",
+    "createSpace": "Alan oluştur",
+    "invite": "Davet et"
+  },
+  "allSpaces": "Tüm alanlar",
+  "spaceIsEmpty": "Bu alan boş",
+  "baseModal": {
+    "copy": "Kopyala",
+    "duplicate": "\"{{baseName}}\" çoğalt",
+    "createBaseFromTemplate": "Şablondan veritabanı oluştur",
+    "duplicateRecords": "Kayıtları çoğalt",
+    "duplicateRecordsTip": "Revizyon geçmişiniz ve işbirlikçileriniz çoğaltılmayacak.",
+    "toSpace": "Alana",
+    "copyToSpace": "Alana kopyala",
+    "duplicateBase": "Veritabanını çoğalt",
+    "missTargetTip": "Lütfen veritabanını çoğaltmak için bir alan seçin.",
+    "copying": "Veritabanı çoğaltılıyor, bu biraz zaman alabilir...",
+    "copyingTemplate": "Şablondan veritabanı oluşturuluyor, bu biraz zaman alabilir...",
+    "howToCreate": "Nasıl başlamak istersiniz?",
+    "fromScratch": "Sıfırdan",
+    "fromTemplate": "Şablondan",
+    "moveBaseToAnotherSpace": "{{baseName}}'i başka bir alana taşı",
+    "chooseSpace": "Alan seç"
+  },
+  "spaceSetting": {
+    "title": "Alan ayarları",
+    "general": "Genel",
+    "collaborators": "İşbirlikçiler",
+    "generalDescription": "Mevcut alanınızın ayarlarını buradan değiştirin",
+    "collaboratorDescription": "Alanınızın işbirlikçilerini yönetin ve erişim izinlerini ayarlayın",
+    "spaceName": "Alan Adı",
+    "spaceId": "Alan Kimliği"
+  },
+  "pin": {
+    "add": "Sabitlemelere ekle",
+    "remove": "Sabitlemeleri kaldır",
+    "pin": "Sabitle",
+    "empty": "Sabitlediğiniz veritabanları ve alanlar burada görünecek"
+  },
+  "tip": {
+    "delete": "<0/> silmek istediğinizden emin misiniz?",
+    "exportTips": "Veritabanı dışa aktarıldığında, tüm veriler, kayıtlar ve ekler dahil olmak üzere dışa aktarılır. Dışa aktarma işlemi arka planda gerçekleşecek ve sonucu bildirim çubuğunda göreceksiniz. Not:\n1. Tüm veritabanları arası bağlantı alanları tek satırlık metin alanlarına dönüştürülecek.\n2. Gelişmiş izinlere sahip personel ayarları temizlenecek, ancak yapılandırmalar silinmeyecek."
+  },
+  "sharedBase": {
+    "title": "Paylaşılan veritabanları",
+    "description": "Sizinle paylaşılan veritabanları burada görünecek",
+    "empty": "Henüz paylaşılan veritabanı yok"
+  },
+  "integration": {
+    "title": "Integrasyonlar",
+    "description": "Yerleştirilen integreasyonları burada görünecek",
+    "addIntegration": "Integrasyon ekle",
+    "ai": "AI"
+  }
+}

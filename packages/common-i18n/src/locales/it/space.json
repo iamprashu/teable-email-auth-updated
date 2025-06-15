@@ -1,0 +1,52 @@
+{
+  "initialSpaceName": "Spazio di {{name}}",
+  "action": {
+    "createBase": "Crea una base",
+    "createSpace": "Crea uno spazio",
+    "invite": "Invita"
+  },
+  "allSpaces": "Tutti gli spazi",
+  "spaceIsEmpty": "Questo spazio è vuoto",
+  "baseModal": {
+    "copy": "Copia",
+    "duplicate": "Duplica \"{{baseName}}\"",
+    "createBaseFromTemplate": "Crea base da modello",
+    "duplicateRecords": "Duplica record",
+    "duplicateRecordsTip": "La cronologia delle revisioni e i collaboratori non saranno duplicati.",
+    "toSpace": "Allo spazio",
+    "copyToSpace": "Copia nello spazio",
+    "duplicateBase": "Duplica base",
+    "missTargetTip": "Seleziona uno spazio per duplicare la base.",
+    "copying": "Duplicazione della base in corso, potrebbe richiedere del tempo...",
+    "copyingTemplate": "Creazione della base da modello in corso, potrebbe richiedere del tempo...",
+    "howToCreate": "Come vuoi iniziare?",
+    "fromScratch": "Da zero",
+    "fromTemplate": "Da modello",
+    "moveBaseToAnotherSpace": "Sposta {{baseName}} in un altro spazio",
+    "chooseSpace": "Scegli uno spazio"
+  },
+  "spaceSetting": {
+    "title": "Impostazioni dello spazio",
+    "general": "Generale",
+    "collaborators": "Collaboratori",
+    "generalDescription": "Modifica qui le impostazioni per il tuo spazio corrente",
+    "collaboratorDescription": "Gestisci i collaboratori del tuo spazio e imposta i loro permessi di accesso",
+    "spaceName": "Nome dello spazio",
+    "spaceId": "ID dello spazio"
+  },
+  "pin": {
+    "add": "Aggiungi ai preferiti",
+    "remove": "Rimuovi dai preferiti",
+    "pin": "Preferiti",
+    "empty": "Le tue basi e spazi preferiti appariranno qui"
+  },
+  "tip": {
+    "delete": "Sei sicuro di voler eliminare <0/>?",
+    "exportTips": "L’esportazione del database esporterà tutti i dati, inclusi tutti i record e gli allegati. Il processo di esportazione verrà eseguito in background e il risultato sarà notificato nella barra delle notifiche. Nota:\n1. Tutti i campi collegati tra database verranno convertiti in campi di testo su una sola riga.\n2. Le impostazioni del personale con autorizzazioni avanzate verranno cancellate, ma le configurazioni rimarranno."
+  },
+  "sharedBase": {
+    "title": "Basi condivise",
+    "description": "Le basi condivise con te appariranno qui",
+    "empty": "Nessuna base condivisa ancora"
+  }
+}
